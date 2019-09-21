@@ -2657,7 +2657,7 @@ body.seo_version .footer-links a:hover{
 	background-size: cover;
 	background-color: #0594a9;
 	background-repeat: no-repeat;
-	padding: 160px 0px 110px 0px;
+	padding: 10px 0px 10px 0px;
 	background-position: center bottom;
 }
 
@@ -2678,8 +2678,8 @@ body.seo_version .footer-links a:hover{
 }
 
 .page-info{
-	text-align: center;
-	margin-bottom: 20px;
+	text-align: left;
+	margin-bottom: 10px;
 }
 .inner-container ul li{
 	display: inline-block;
