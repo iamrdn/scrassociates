@@ -16,11 +16,13 @@
 	margin: 0 auto;
 	position: relative;
 	z-index: 100;
+	margin-left: 35%;
 }
 
 .seo_version .sl-slider h2 {
 	font-size: 80px;
 	text-shadow: 0 -1px 0 rgba(0,0,0,0.2);
+	margin-left: 35%;
 }
 
 .seo_version .sl-slider blockquote {
@@ -158,16 +160,16 @@
 
 
 .seo_version .bg-img-1 {
-	background-image: url(../images/slider-01.jpg);
+	background-image: url(../images/GST.PNG);
 }
 .seo_version .bg-img-2 {
-	background-image: url(../images/slider-02.jpg);
+	background-image: url(../images/Services.PNG);
 }
 .seo_version .bg-img-3 {
-	background-image: url(../images/slider-03.jpg);
+	background-image: url(../images/Audit_Assurance.jpg);
 }
 .seo_version .bg-img-4 {
-	background-image: url(../images/slider-04.jpg);
+	background-image: url(../images/Payroll.PNG);
 }
 
 
