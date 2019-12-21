@@ -13,16 +13,14 @@
 	width: 80%;
 	max-width: 1140px;
 	color: #fff;
-	margin: 0 auto;
+	margin-left: 35%;
 	position: relative;
 	z-index: 100;
-	margin-left: 35%;
 }
 
 .seo_version .sl-slider h2 {
 	font-size: 80px;
 	text-shadow: 0 -1px 0 rgba(0,0,0,0.2);
-	margin-left: 35%;
 }
 
 .seo_version .sl-slider blockquote {
