@@ -2240,6 +2240,7 @@ select.mobile-device {
     padding: 70px 0px;
     color: #999;
     background-color: #ffffff;
+    border-top: 5px solid #0594a9;
 }
 
 .footer .widget-title {
